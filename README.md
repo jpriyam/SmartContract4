@@ -1,6 +1,24 @@
 # SmartContract4
 
 In this assignment I learnt how to Compile and deploy Smart Contracts using Truffle – Ganache -- Drizzle.
+
+Attaching a few screenshots of the output for a better understanding of the programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![SmartContract4_1](https://user-images.githubusercontent.com/60270105/197006191-92a457a1-e583-41bc-bfbd-ab9ed4c0b74a.png)
 
 ![SmartContract4_2](https://user-images.githubusercontent.com/60270105/197006192-c182c7ac-bfd2-4e8e-87a1-9582acd0ac41.png)
